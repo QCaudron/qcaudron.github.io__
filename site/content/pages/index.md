@@ -7,7 +7,7 @@ slug: index
 
 I'm a postdoctoral researcher at <a href="http://www.princeton.edu">Princeton University</a>. My interests are in mathematical and computational biology, signal and image processing, and machine learning.
 
-## I like thinking about methods and algorithms for solving complex problems.
+### I like thinking about methods and algorithms for solving complex problems.
 
 I'm a postdoc with <a href="http://scholar.princeton.edu/grenfellgroup/people">Bryan Grenfell</a> in the <a href="http://www.princeton.edu/eeb">Department of Ecology and Evolutionary Biology</a>. I draw from methods in mathematics, physics, and computer science, and apply them to problems in biology, specifically in the areas of infectious disease epidemiology and ecology.
 
