@@ -1,4 +1,4 @@
-Title: 
+Title: Publications
 Date: 2014-12-26
 Summary: Publications
 save_as: publications.html

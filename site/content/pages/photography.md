@@ -1,4 +1,4 @@
-Title: 
+Title: Photo Portfolio
 Date: 2014-12-26
 Summary: Photography
 save_as: photography.html
