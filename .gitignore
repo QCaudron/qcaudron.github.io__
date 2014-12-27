@@ -1,0 +1,4 @@
+site/output
+site/cache
+*.py~
+*.pyc

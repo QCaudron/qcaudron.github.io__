@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Quentin CAUDRON, Physicist, computer scientist, accidental biologist">
+
+
+        <title> // Quentin CAUDRON // Physicist, computer scientist, accidental biologist</title>
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://quentincaudron.com/NEWTEST/theme/css/pure.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+
+
+</head>
+
+<body>
+    <div class="pure-g-r" id="layout">
+        <div class="sidebar pure-u">
+            <div class="cover-img" style="background-image: url('https://scontent-b.xx.fbcdn.net/hphotos-xpa1/t31.0-8/10644591_10100641065082844_3827247284842128782_o.jpg')">
+                <div class="cover-body">
+                    <header class="header">
+                        <hgroup>
+                            <img class="avatar" src="q2.jpg">
+                            <h1 class="brand-main"><a href="/">Quentin CAUDRON</a></h1>
+                            <p class="tagline">Physicist, computer scientist, accidental biologist</p>
+                                <p class="social">
+                                    <a href="https://github.com/qcaudron">
+                                        <i class="fa fa-github fa-3x"></i>
+                                    </a>
+                                    <a href="http://twitter.com/QuentinCaudron">
+                                        <i class="fa fa-twitter fa-3x"></i>
+                                    </a>
+                                    <a href="https://www.linkedin.com/profile/view?id=129144766">
+                                        <i class="fa fa-linkedin fa-3x"></i>
+                                    </a>
+                                    <a href="skype:quentin.caudron">
+                                        <i class="fa fa-skype fa-3x"></i>
+                                    </a>
+                                    <a href="mailto:quentincaudron@gmail.com">
+                                        <i class="fa fa-envelope-o fa-3x"></i>
+                                    </a>
+                                <p>
+                        </hgroup>
+                    </header>
+                </div>
+            </div>
+        </div>
+    <div class="pure-u">
+
+	    <div class="qsmaller pure-menu pure-menu-open pure-menu-horizontal">
+	        <ul>
+	            <li><a href="index.html" style="font-size: 22px">Home</a></li>
+	            <li><a href="research.html" style="font-size: 22px">Research</a></li>
+	            <li><a href="projects.html" style="font-size: 22px">Projects</a></li>
+	            <li><a href="photography.html" style="font-size: 22px">Photography</a></li>
+	        </ul>
+	    </div>
+
+	        <div class="content">
+	            <h1 class="content-subhead"></h1>
+	            <p><h3>Princeton University Python Community</h3>
+<p>I'm one of the founders of the <a href="http://princetonpy.com">Princeton University Python Community</a>, an interdisciplinary community of Python enthusiasts of all levels, based at Princeton University. I design and deliver <i>Python for Scientific Computing</i>, an introductory course working through numpy, scipy, matplotlib, and pandas. Along with <a href="http://scholar.princeton.edu/ppg/home">Paul Gauthier</a>, we also organise biweekly sessions where members meet to demo packages or present concepts and programming ideas. We currently have 250 members, from undergraduate to faculty, across over twenty departments.</p>
+<h3>scotch</h3>
+<p>A package for simulating stochastic dynamical models, <a href="https://github.com/QCaudron/scotch"><i>scotch</i></a> implements algorithms for simulating continuous-time Markov chains in Python. It is a work-in-progress collaboration with <a href="http://ruthiebirger.com">Ruthie Birger</a>; we hope to implement more advanced simulation algorithms, such as adaptive timestepping, as well as trace sampling for calculating summary statistics and parameter inference for stochastic models. Simulation algorithms will eventually be Cythonised. Pull requests are welcome !</p>
+<h3>genepy</h3>
+<p>Pronounced like the French spirit génépi, <a href="https://github.com/QCaudron/genepy"><i>genepy</i></a> is a Python package for interactive sequence alignment and construction of phylogenetic trees built in <a href="http://biopython.org">BioPython</a>. Currently, it's simply a wrapper around <a href="http://www.clustal.org/omega/">ClustalO</a> and <a href="http://atgc.lirmm.fr/phyml/">PhyML</a> aimed at facilitating visualisation and interactively working with sequences. Pull requests welcome.</p>
+<h3>QED</h3>
+<p><a href="https://github.com/QCaudron/QED"><i>QED</i></a> is a Matlab package for extracting quantitative information about the distortion in the ommatidia of <i>Drosophila melanogaster</i> from SEM images. It's got a full GUI, providing an intuitive manner to analyse images fairly rapidly. Why fly eyes ? <i>Drosophila</i> is a fantastic model organism for genetics, and some phenotypes can be seen in the eye. This was the case for the <i>tau</i> and <i>shaggy</i> genes <a href="http://www.ou.edu/journals/dis/DIS96/Caudron%20136.pdf">that we studied during my Masters</a>. This package could potentially be applied to other organs or organisms, and extended to compute other measures of distortion. </p></p>
+	        </div>
+
+	<!--     <div class="footer">
+<footer class="footer qsmaller" style="font-size: 20px">
+    <p style="font-size: 20px">&copy; Quentin CAUDRON &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure-single">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer> 
+</div> -->
+    </div>
+    </div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+
+</body>
+</html>
