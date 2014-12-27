@@ -6,7 +6,11 @@ slug: publications
 
 <style>
 li { font-size: 20px; margin-bottom: 25px; padding-left:0; list-style: none; }
+b { font-size: 20px; }
+i { font-size: 20px; }
 </style>
+
+
 
 
 
