@@ -51,7 +51,7 @@ with open("site/content/pages/photography.md", "w") as fout :
 		fout.write("<a href=\"photo_%s.html\"><img src=\"images/thumb_%s.jpg\" /></a>\n" % (gallery, gallery))
 
 		# Copy the gallery thumbnail over
-		shutil.copyfile("site/content/portfolio_thumbs/%s.jpg" % gallery, "images/%s_thumb.jpg" % gallery)
+		shutil.copyfile("site/content/portfolio_thumbs/%s.jpg" % gallery, "images/thumb_%s.jpg" % gallery)
 
 
 
