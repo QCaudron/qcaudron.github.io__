@@ -11,4 +11,4 @@ for i in galleries :
 			lines = fin.readlines()
 		with open("photo_%s.html" % i, "w") as fout :
 			for line in lines :
-				fout.write(line.replace("<p><a href", "<a href").replace("</a></p>", "</a>"))
+				fout.write(line.replace("<p><a href", "<a href").replace("</a></p>", "</a>").replace("<div class=\"content\"", "<div class=\"content\" style=\"text-align: left;\""))
