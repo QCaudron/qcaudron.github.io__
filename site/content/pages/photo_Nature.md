@@ -16,8 +16,8 @@ slug: Nature
 	<img src="images/thumb_Nature.jpg" alt="Princeton"/>
 </a>
 
-<a href="images/portfolio/Nature/04_.jpg" class="swipebox" title="">
-	<img src="images/thumb_Nature.jpg" alt=""/>
+<a href="images/portfolio/Nature/04_BlackRiverNJ.jpg" class="swipebox" title="BlackRiverNJ">
+	<img src="images/thumb_Nature.jpg" alt="BlackRiverNJ"/>
 </a>
 
 <a href="images/portfolio/Nature/05_LaRochelle.jpg" class="swipebox" title="LaRochelle">
@@ -28,8 +28,8 @@ slug: Nature
 	<img src="images/thumb_Nature.jpg" alt="Moonlight"/>
 </a>
 
-<a href="images/portfolio/Nature/07_.jpg" class="swipebox" title="">
-	<img src="images/thumb_Nature.jpg" alt=""/>
+<a href="images/portfolio/Nature/07_BlackRiverParkEntrance.jpg" class="swipebox" title="BlackRiverParkEntrance">
+	<img src="images/thumb_Nature.jpg" alt="BlackRiverParkEntrance"/>
 </a>
 
 <a href="images/portfolio/Nature/08_Peer.jpg" class="swipebox" title="Peer">

@@ -1,8 +1,8 @@
 Title: Photo Portfolio
 Date: 2014-12-26
-Summary: Photography
-save_as: photography.html
-slug: photography
+Summary: Photography_old
+save_as: photography_old.html
+slug: photography_old
 
 This is just a placeholder with some histology images... Real gallery to come soonish.
 
