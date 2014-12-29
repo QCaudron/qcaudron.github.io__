@@ -70,7 +70,7 @@ for gallery in galleries :
 		title = image.split("_")[1].split(".jpg")[0]
 		thiscommand = commands[:]
 		thiscommand.append("site/content/portfolio/%s/%s" % (gallery, image))
-		thiscommand.append("images/portfolio/%s/thumb_%s.jpg" % (gallery, image.split(".jpg")[0]))
+		thiscommand.append("images/portfolio/%s/thumb_%s" % (gallery, image))
 		subprocess.call(thiscommand)
 		shutil.copyfile("site/content/portfolio/%s/%s" % (gallery, image), "images/portfolio/%s/%s" % (gallery, image))
 
@@ -89,7 +89,7 @@ for gallery in galleries :
 		for image in images[gallery] :
 			title = image.split("_")[1].split(".jpg")[0]
 			fout.write("<a href=\"images/portfolio/%s/%s\" class=\"swipebox\" title=\"%s\">\n" % (gallery, image, title))
-			fout.write("\t<img src=\"images/thumb_%s.jpg\" alt=\"%s\"/>\n" % (gallery, title))
+			fout.write("\t<img src=\"images/portfolio/%s/thumb_%s\" alt=\"%s\"/>\n" % (gallery, image, title))
 			fout.write("</a>\n\n")
 
 		fout.write("\n\n<script type=\"text/javascript\">\n")
