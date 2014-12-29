@@ -5,6 +5,12 @@ import shutil
 
 
 
+# Thumbnail size
+size = 250
+
+
+
+
 # Grab a list of galleries
 galleries = os.listdir("site/content/portfolio/")
 
@@ -48,7 +54,7 @@ with open("site/content/pages/photography.md", "w") as fout :
 	for gallery in galleries :
 
 		# Generate link to gallery
-		fout.write("<a href=\"photo_%s.html\"><img src=\"images/thumb_%s.jpg\" /></a>\n" % (gallery, gallery))
+		fout.write("<a href=\"photo_%s.html\"><img src=\"images/thumb_%s.jpg\" style=\"padding: 30px;\"/></a><br />\n" % (gallery, gallery))
 
 		# Copy the gallery thumbnail over
 		shutil.copyfile("site/content/portfolio_thumbs/%s.jpg" % gallery, "images/thumb_%s.jpg" % gallery)
@@ -64,7 +70,7 @@ for gallery in galleries :
 
 	# For every image in the gallery, generate a thumbnail and move both the thumbnail and the original to upload directory
 	os.mkdir("images/portfolio/%s" % gallery)
-	commands = ["convert", "-thumbnail", "300x300^", "-gravity", "center", "-extent", "300x300"]
+	commands = ["convert", "-thumbnail", "%dx%d^" % (size, size), "-gravity", "center", "-extent", "%dx%d" % (size, size)]
 
 	for image in images[gallery] :
 		title = image.split("_")[1].split(".jpg")[0]
