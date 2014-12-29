@@ -28,7 +28,7 @@ SOCIAL = (
 	("twitter", "http://twitter.com/QuentinCaudron"),
 	("linkedin", "https://www.linkedin.com/profile/view?id=129144766"),
 	("skype", "skype:quentin.caudron"),
-	("file-text-o", "http://qcaudron.github.io/QCaudron_CV.pdf"),
+	("file-text-o", "http://qcaudron.github.io/files/QCaudron_CV.pdf"),
 	("envelope-o", "mailto:quentincaudron@gmail.com")
 )
 

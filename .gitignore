@@ -2,3 +2,5 @@ site/output
 site/cache
 *.py~
 *.pyc
+site/content/portfolio
+site/content/portfolio_thumbs
