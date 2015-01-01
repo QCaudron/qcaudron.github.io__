@@ -1,5 +1,5 @@
 Title: Abstract
-Date: 2014-12-29
+Date: 2015-1-1
 Summary: Abstract
 save_as: photo_Abstract.html
 slug: Abstract
