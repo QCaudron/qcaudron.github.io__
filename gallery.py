@@ -54,7 +54,7 @@ with open("site/content/pages/photography.md", "w") as fout :
 	for gallery in galleries :
 
 		# Generate link to gallery
-		fout.write("<a href=\"photography/%s.html\"><img src=\"images/thumb_%s.jpg\" style=\"padding: 15px;\"/></a><br />\n" % (gallery, gallery))
+		fout.write("<a href=\"photography/%s.html\"><img src=\"images/thumb_%s.jpg\" style=\"padding: 15px;\"/></a><br />\n" % (gallery.lower(), gallery))
 
 		# Copy the gallery thumbnail over
 		shutil.copyfile("site/content/portfolio_thumbs/%s.jpg" % gallery, "images/thumb_%s.jpg" % gallery)
@@ -90,7 +90,7 @@ for gallery in galleries :
 		fout.write("Date: %d-%d-%d\n" % (today.year, today.month, today.day))
 		fout.write("Summary: %s\n" % gallery)
 		fout.write("save_as: photography/%s.html\n" % gallery.lower())
-		fout.write("slug: %s\n\n" % gallery)
+		fout.write("slug: photography/%s\n\n" % gallery.lower())
 
 		for image in images[gallery] :
 			title = image.split("_")[1].split(".jpg")[0]
@@ -100,6 +100,6 @@ for gallery in galleries :
 
 		fout.write("\n\n<script type=\"text/javascript\">\n")
 		fout.write("\t;( function( $ ) {\n")
-		fout.write("\t$( \".swipebox\" ).swipebox();\n")
+		fout.write("\t$( \"../swipebox\" ).swipebox();\n")
 		fout.write("\t} )( jQuery );\n")
 		fout.write("</script>\n\n")

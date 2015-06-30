@@ -2,7 +2,7 @@ Title: Abstract
 Date: 2015-6-30
 Summary: Abstract
 save_as: photography/abstract.html
-slug: Abstract
+slug: photography/abstract
 
 <a href="../images/portfolio/Abstract/01_Arches.jpg" class="swipebox" title="Arches">
 	<img src="../images/portfolio/Abstract/thumb_01_Arches.jpg" alt="Arches" style="padding: 15px;"/>
@@ -60,7 +60,7 @@ slug: Abstract
 
 <script type="text/javascript">
 	;( function( $ ) {
-	$( ".swipebox" ).swipebox();
+	$( "../swipebox" ).swipebox();
 	} )( jQuery );
 </script>
 

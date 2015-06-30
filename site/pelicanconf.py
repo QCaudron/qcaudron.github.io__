@@ -36,8 +36,8 @@ DEFAULT_PAGINATION = 10
 
 
 THEME = ("./themes/pure-single/")
-COVER_IMG_URL = "images/sea.jpg"
-PROFILE_IMG_URL = "images/q2.jpg"
+COVER_IMG_URL = "./images/sea.jpg"
+PROFILE_IMG_URL = "./images/q2.jpg"
 TAGLINE = ("Physicist, computer scientist, accidental biologist")
 
 DISPLAY_PAGES_ON_MENU = True
