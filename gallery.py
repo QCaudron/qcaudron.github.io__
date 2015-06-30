@@ -94,8 +94,8 @@ for gallery in galleries :
 
 		for image in images[gallery] :
 			title = image.split("_")[1].split(".jpg")[0]
-			fout.write("<a href=\"images/portfolio/%s/%s\" class=\"swipebox\" title=\"%s\">\n" % (gallery, image, title))
-			fout.write("\t<img src=\"images/portfolio/%s/thumb_%s\" alt=\"%s\" style=\"padding: 15px;\"/>\n" % (gallery, image, title))
+			fout.write("<a href=\"../images/portfolio/%s/%s\" class=\"swipebox\" title=\"%s\">\n" % (gallery, image, title))
+			fout.write("\t<img src=\"../images/portfolio/%s/thumb_%s\" alt=\"%s\" style=\"padding: 15px;\"/>\n" % (gallery, image, title))
 			fout.write("</a>\n\n")
 
 		fout.write("\n\n<script type=\"text/javascript\">\n")
