@@ -2,7 +2,7 @@ Title: Nature
 Date: 2015-6-30
 Summary: Nature
 save_as: photography/nature.html
-slug: Nature
+slug: photography/nature
 
 <a href="../images/portfolio/Nature/00_WashingtonNationalForest.jpg" class="swipebox" title="WashingtonNationalForest">
 	<img src="../images/portfolio/Nature/thumb_00_WashingtonNationalForest.jpg" alt="WashingtonNationalForest" style="padding: 15px;"/>
@@ -124,7 +124,7 @@ slug: Nature
 
 <script type="text/javascript">
 	;( function( $ ) {
-	$( ".swipebox" ).swipebox();
+	$( "../swipebox" ).swipebox();
 	} )( jQuery );
 </script>
 

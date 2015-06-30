@@ -2,7 +2,7 @@ Title: Cityscapes
 Date: 2015-6-30
 Summary: Cityscapes
 save_as: photography/cityscapes.html
-slug: Cityscapes
+slug: photography/cityscapes
 
 <a href="../images/portfolio/Cityscapes/01_Lille.jpg" class="swipebox" title="Lille">
 	<img src="../images/portfolio/Cityscapes/thumb_01_Lille.jpg" alt="Lille" style="padding: 15px;"/>
@@ -76,7 +76,7 @@ slug: Cityscapes
 
 <script type="text/javascript">
 	;( function( $ ) {
-	$( ".swipebox" ).swipebox();
+	$( "../swipebox" ).swipebox();
 	} )( jQuery );
 </script>
 

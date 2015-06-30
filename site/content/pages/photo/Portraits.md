@@ -2,7 +2,7 @@ Title: Portraits
 Date: 2015-6-30
 Summary: Portraits
 save_as: photography/portraits.html
-slug: Portraits
+slug: photography/portraits
 
 <a href="../images/portfolio/Portraits/01_Spivakov.jpg" class="swipebox" title="Spivakov">
 	<img src="../images/portfolio/Portraits/thumb_01_Spivakov.jpg" alt="Spivakov" style="padding: 15px;"/>
@@ -56,7 +56,7 @@ slug: Portraits
 
 <script type="text/javascript">
 	;( function( $ ) {
-	$( ".swipebox" ).swipebox();
+	$( "../swipebox" ).swipebox();
 	} )( jQuery );
 </script>
 
