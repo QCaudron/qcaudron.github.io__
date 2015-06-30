@@ -1,7 +1,7 @@
 Title: Nature
-Date: 2015-1-1
+Date: 2015-6-30
 Summary: Nature
-save_as: photo_Nature.html
+save_as: nature.html
 slug: Nature
 
 <a href="images/portfolio/Nature/01_BelmarNJ.jpg" class="swipebox" title="BelmarNJ">

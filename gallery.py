@@ -34,7 +34,7 @@ for gallery in galleries :
 
 
 
-# Generate a front page 
+# Generate a front page
 today = datetime.date.today()
 with open("site/content/pages/photography.md", "w") as fout :
 
@@ -50,11 +50,11 @@ with open("site/content/pages/photography.md", "w") as fout :
 	fout.write("save_as: photography.html\n")
 	fout.write("slug: photography\n\n")
 
-	
+
 	for gallery in galleries :
 
 		# Generate link to gallery
-		fout.write("<a href=\"photo_%s.html\"><img src=\"images/thumb_%s.jpg\" style=\"padding: 15px;\"/></a><br />\n" % (gallery, gallery))
+		fout.write("<a href=\"photography/%s.html\"><img src=\"images/thumb_%s.jpg\" style=\"padding: 15px;\"/></a><br />\n" % (gallery, gallery))
 
 		# Copy the gallery thumbnail over
 		shutil.copyfile("site/content/portfolio_thumbs/%s.jpg" % gallery, "images/thumb_%s.jpg" % gallery)
@@ -82,14 +82,14 @@ for gallery in galleries :
 
 
 
-	
+
 
 	# Generate the gallery HTML
-	with open("site/content/pages/photo_%s.md" % gallery, "w") as fout :
+	with open("site/content/pages/photo/%s.md" % gallery, "w") as fout :
 		fout.write("Title: %s\n" % gallery)
 		fout.write("Date: %d-%d-%d\n" % (today.year, today.month, today.day))
 		fout.write("Summary: %s\n" % gallery)
-		fout.write("save_as: photo_%s.html\n" % gallery)
+		fout.write("save_as: photography/%s.html\n" % gallery.lower())
 		fout.write("slug: %s\n\n" % gallery)
 
 		for image in images[gallery] :
@@ -103,15 +103,3 @@ for gallery in galleries :
 		fout.write("\t$( \".swipebox\" ).swipebox();\n")
 		fout.write("\t} )( jQuery );\n")
 		fout.write("</script>\n\n")
-
-
-
-
-
-
-
-
-
-
-
-

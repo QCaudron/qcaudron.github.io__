@@ -1,7 +1,7 @@
 Title: Cityscapes
-Date: 2015-1-1
+Date: 2015-6-30
 Summary: Cityscapes
-save_as: photo_Cityscapes.html
+save_as: photography/cityscapes.html
 slug: Cityscapes
 
 <a href="images/portfolio/Cityscapes/01_Lille.jpg" class="swipebox" title="Lille">

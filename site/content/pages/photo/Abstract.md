@@ -1,7 +1,7 @@
 Title: Abstract
-Date: 2015-1-1
+Date: 2015-6-30
 Summary: Abstract
-save_as: photo_Abstract.html
+save_as: photography/abstract.html
 slug: Abstract
 
 <a href="images/portfolio/Abstract/01_Arches.jpg" class="swipebox" title="Arches">

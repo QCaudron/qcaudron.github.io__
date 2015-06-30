@@ -8,7 +8,7 @@ SITEURL = 'http://quentincaudron.com/'
 
 PATH = 'content'
 
-TIMEZONE = 'USA/Princeton'
+#TIMEZONE = 'USA/Princeton'
 
 DEFAULT_LANG = u'en'
 
@@ -36,9 +36,7 @@ DEFAULT_PAGINATION = 10
 
 
 THEME = ("./themes/pure-single/")
-#COVER_IMG_URL = "http://i.imgur.com/rdpkAUi.jpg"
 COVER_IMG_URL = "images/sea.jpg"
-#PROFILE_IMG_URL = "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10685617_10100642056017004_4214676271132225885_n.jpg?oh=7142348f3839eef3602f1249915e2f57&oe=54894305&__gda__=1422449171_f45f833fe4fd8ce8c7ff63158b29ce27"
 PROFILE_IMG_URL = "images/q2.jpg"
 TAGLINE = ("Physicist, computer scientist, accidental biologist")
 

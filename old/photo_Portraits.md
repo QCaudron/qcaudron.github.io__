@@ -1,7 +1,7 @@
 Title: Portraits
-Date: 2015-1-1
+Date: 2015-6-30
 Summary: Portraits
-save_as: photo_Portraits.html
+save_as: portraits.html
 slug: Portraits
 
 <a href="images/portfolio/Portraits/01_Spivakov.jpg" class="swipebox" title="Spivakov">
