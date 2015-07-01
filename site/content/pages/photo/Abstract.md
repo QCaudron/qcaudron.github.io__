@@ -1,5 +1,5 @@
 Title: Abstract
-Date: 2015-6-30
+Date: 2015-7-1
 Summary: Abstract
 save_as: abstract.html
 slug: abstract

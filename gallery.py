@@ -57,7 +57,7 @@ with open("site/content/pages/photography.md", "w") as fout :
 	for gallery in galleries :
 
 		# Generate link to gallery
-		fout.write("<a href=\"%s.html\"><img src=\"images/thumb_%s.jpg\" style=\"padding: 15px; width: 500px;\"/></a><br />\n" % (gallery.lower(), gallery))
+		fout.write("<a href=\"%s\"><img src=\"images/thumb_%s.jpg\" style=\"padding: 10px; width: 400px;\"/></a><br />\n" % (gallery.lower(), gallery))
 
 		# Copy the gallery thumbnail over
 		shutil.copyfile("site/content/portfolio_thumbs/%s.jpg" % gallery, "images/thumb_%s.jpg" % gallery)
