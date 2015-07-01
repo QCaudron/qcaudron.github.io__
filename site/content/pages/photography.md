@@ -4,7 +4,7 @@ Summary: Photography
 save_as: photography.html
 slug: photography
 
-<a href="abstract.html"><img src="images/thumb_Abstract.jpg" style="padding: 15px; width:800px;"/></a><br />
-<a href="cityscapes.html"><img src="images/thumb_Cityscapes.jpg" style="padding: 15px; width:800px;"/></a><br />
-<a href="nature.html"><img src="images/thumb_Nature.jpg" style="padding: 15px; width:800px;"/></a><br />
-<a href="portraits.html"><img src="images/thumb_Portraits.jpg" style="padding: 15px; width:800px;"/></a><br />
+<a href="abstract.html"><img src="images/thumb_Abstract.jpg" style="padding: 15px; width: 500px;"/></a><br />
+<a href="cityscapes.html"><img src="images/thumb_Cityscapes.jpg" style="padding: 15px; width: 500px;"/></a><br />
+<a href="nature.html"><img src="images/thumb_Nature.jpg" style="padding: 15px; width: 500px;"/></a><br />
+<a href="portraits.html"><img src="images/thumb_Portraits.jpg" style="padding: 15px; width: 500px;"/></a><br />
