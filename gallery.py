@@ -11,6 +11,9 @@ size = 250
 
 
 
+
+
+
 # Grab a list of galleries
 galleries = os.listdir("site/content/portfolio/")
 
