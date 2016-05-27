@@ -5,9 +5,9 @@ save_as: projects.html
 slug: projects
 
 
-### Princeton University Python Community
+### manatee
 
-I'm one of the founders of the [Princeton University Python Community](http://princetonpy.com), an interdisciplinary community of Python enthusiasts of all levels at Princeton University. I design and deliver <i>Python for Scientific Computing</i>, an introductory course working through numpy, scipy, matplotlib, and pandas. Along with [Paul Gauthier](http://scholar.princeton.edu/ppg/home), we also organise biweekly sessions where members meet to demo packages or present concepts and programming ideas. We currently have 250 members, from undergraduate to faculty, across over twenty departments. We operate in affiliation with the [Princeton Institute for Computational Science and Engineering](http://www.princeton.edu/researchcomputing/about/picscie/).
+[Manatee](http://qcaudron.github.io/manatee) is a wrapper around PySpark's DataFrames, to make them more pandas-like. It was started as a learning exercise for PySpark, and to make basic data manipulation tasks less painful when coming from pandas. It's currently in alpha, but I'm hoping to push it to first release in the near future.
 
 
 ### scotch
@@ -25,3 +25,8 @@ Pronounced like the French spirit génépi, <a href="https://github.com/QCaudron
 
 <a href="https://github.com/QCaudron/QED">QED</a> (<i>Quantitative Evaluation of Distortion</i>) is a Matlab package for extracting quantitative information about the distortion in the ommatidia of <i>Drosophila melanogaster</i> from SEM images. It's got a full GUI, and provides an intuitive manner to analyse images fairly rapidly. Why fly eyes ? <i>Drosophila</i> is a fantastic model organism for genetics, and some phenotypes can be seen in the eye. This was the case for the <i>tau</i> and <i>shaggy</i> genes <a href="http://www.ou.edu/journals/dis/DIS96/Caudron%20136.pdf">that we studied during my Masters</a>. This package could potentially be applied to other organs or organisms, and extended to compute other measures of distortion. 
 
+
+
+### Princeton University Python Community
+
+I'm one of the founders of the [Princeton University Python Community](http://princetonpy.com), an interdisciplinary community of Python enthusiasts of all levels at Princeton University. I design and deliver <i>Python for Scientific Computing</i>, an introductory course working through numpy, scipy, matplotlib, and pandas. Along with [Paul Gauthier](http://scholar.princeton.edu/ppg/home), we also organise biweekly sessions where members meet to demo packages or present concepts and programming ideas. We currently have 250 members, from undergraduate to faculty, across over twenty departments. We operate in affiliation with the [Princeton Institute for Computational Science and Engineering](http://www.princeton.edu/researchcomputing/about/picscie/).
