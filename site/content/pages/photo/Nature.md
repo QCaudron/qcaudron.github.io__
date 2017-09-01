@@ -1,13 +1,13 @@
 Title: Nature
-Date: 2015-7-1
+Date: 2017-9-1
 Summary: Nature
 save_as: nature.html
 slug: nature
 
-<a href="images/portfolio/Nature/Galaxy.jpg" class="swipebox" title="Galaxy">
-    <img src="images/portfolio/Nature/Galaxy.jpg" alt="Galaxy" style="padding: 15px;"/>
-	</a>
-	
+<a href="images/portfolio/Nature/000_Galaxy.jpg" class="swipebox" title="Galaxy">
+	<img src="images/portfolio/Nature/thumb_000_Galaxy.jpg" alt="Galaxy" style="padding: 15px;"/>
+</a>
+
 <a href="images/portfolio/Nature/00_WashingtonNationalForest.jpg" class="swipebox" title="WashingtonNationalForest">
 	<img src="images/portfolio/Nature/thumb_00_WashingtonNationalForest.jpg" alt="WashingtonNationalForest" style="padding: 15px;"/>
 </a>
@@ -130,6 +130,130 @@ slug: nature
 
 <a href="images/portfolio/Nature/27_Air.jpg" class="swipebox" title="Air">
 	<img src="images/portfolio/Nature/thumb_27_Air.jpg" alt="Air" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_00_WashingtonNationalForest.jpg" class="swipebox" title="00">
+	<img src="images/portfolio/Nature/thumb_thumb_00_WashingtonNationalForest.jpg" alt="00" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_01_BelmarNJ.jpg" class="swipebox" title="01">
+	<img src="images/portfolio/Nature/thumb_thumb_01_BelmarNJ.jpg" alt="01" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_01_Trails.jpg" class="swipebox" title="01">
+	<img src="images/portfolio/Nature/thumb_thumb_01_Trails.jpg" alt="01" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_02_Shenandoah.jpg" class="swipebox" title="02">
+	<img src="images/portfolio/Nature/thumb_thumb_02_Shenandoah.jpg" alt="02" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_04_BlackRiverNJ.jpg" class="swipebox" title="04">
+	<img src="images/portfolio/Nature/thumb_thumb_04_BlackRiverNJ.jpg" alt="04" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_05_LaRochelle.jpg" class="swipebox" title="05">
+	<img src="images/portfolio/Nature/thumb_thumb_05_LaRochelle.jpg" alt="05" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_05_Princeton.jpg" class="swipebox" title="05">
+	<img src="images/portfolio/Nature/thumb_thumb_05_Princeton.jpg" alt="05" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_06_Moonlight.jpg" class="swipebox" title="06">
+	<img src="images/portfolio/Nature/thumb_thumb_06_Moonlight.jpg" alt="06" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_07_BlackRiverParkEntrance.jpg" class="swipebox" title="07">
+	<img src="images/portfolio/Nature/thumb_thumb_07_BlackRiverParkEntrance.jpg" alt="07" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_08_Peer.jpg" class="swipebox" title="08">
+	<img src="images/portfolio/Nature/thumb_thumb_08_Peer.jpg" alt="08" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_09_Vesuvius.jpg" class="swipebox" title="09">
+	<img src="images/portfolio/Nature/thumb_thumb_09_Vesuvius.jpg" alt="09" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_10_Fields.jpg" class="swipebox" title="10">
+	<img src="images/portfolio/Nature/thumb_thumb_10_Fields.jpg" alt="10" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_11_Colorado.jpg" class="swipebox" title="11">
+	<img src="images/portfolio/Nature/thumb_thumb_11_Colorado.jpg" alt="11" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_12_AlpesDHuez.jpg" class="swipebox" title="12">
+	<img src="images/portfolio/Nature/thumb_thumb_12_AlpesDHuez.jpg" alt="12" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_12_CooperMillBlackRiverCountryPark.jpg" class="swipebox" title="12">
+	<img src="images/portfolio/Nature/thumb_thumb_12_CooperMillBlackRiverCountryPark.jpg" alt="12" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_13_Egypt.jpg" class="swipebox" title="13">
+	<img src="images/portfolio/Nature/thumb_thumb_13_Egypt.jpg" alt="13" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_14_TarragonaBeach.jpg" class="swipebox" title="14">
+	<img src="images/portfolio/Nature/thumb_thumb_14_TarragonaBeach.jpg" alt="14" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_15_Clouds.jpg" class="swipebox" title="15">
+	<img src="images/portfolio/Nature/thumb_thumb_15_Clouds.jpg" alt="15" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_16_RiverAvon.jpg" class="swipebox" title="16">
+	<img src="images/portfolio/Nature/thumb_thumb_16_RiverAvon.jpg" alt="16" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_17_StonyBeach.jpg" class="swipebox" title="17">
+	<img src="images/portfolio/Nature/thumb_thumb_17_StonyBeach.jpg" alt="17" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_18_Lake.jpg" class="swipebox" title="18">
+	<img src="images/portfolio/Nature/thumb_thumb_18_Lake.jpg" alt="18" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_19_Colorado.jpg" class="swipebox" title="19">
+	<img src="images/portfolio/Nature/thumb_thumb_19_Colorado.jpg" alt="19" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_19_Sunset.jpg" class="swipebox" title="19">
+	<img src="images/portfolio/Nature/thumb_thumb_19_Sunset.jpg" alt="19" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_20_Holyrood.jpg" class="swipebox" title="20">
+	<img src="images/portfolio/Nature/thumb_thumb_20_Holyrood.jpg" alt="20" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_21_Everglades.jpg" class="swipebox" title="21">
+	<img src="images/portfolio/Nature/thumb_thumb_21_Everglades.jpg" alt="21" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_22_Calm.jpg" class="swipebox" title="22">
+	<img src="images/portfolio/Nature/thumb_thumb_22_Calm.jpg" alt="22" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_23_Flyby.jpg" class="swipebox" title="23">
+	<img src="images/portfolio/Nature/thumb_thumb_23_Flyby.jpg" alt="23" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_24_VesuviusWide.jpg" class="swipebox" title="24">
+	<img src="images/portfolio/Nature/thumb_thumb_24_VesuviusWide.jpg" alt="24" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_25_Wales.jpg" class="swipebox" title="25">
+	<img src="images/portfolio/Nature/thumb_thumb_25_Wales.jpg" alt="25" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_26_FieldLake.jpg" class="swipebox" title="26">
+	<img src="images/portfolio/Nature/thumb_thumb_26_FieldLake.jpg" alt="26" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Nature/thumb_27_Air.jpg" class="swipebox" title="27">
+	<img src="images/portfolio/Nature/thumb_thumb_27_Air.jpg" alt="27" style="padding: 15px;"/>
 </a>
 
 

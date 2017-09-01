@@ -1,5 +1,5 @@
 Title: Photography
-Date: 2015-7-1
+Date: 2017-9-1
 Summary: Photography
 save_as: photography.html
 slug: photography

@@ -1,5 +1,5 @@
 Title: Portraits
-Date: 2015-7-1
+Date: 2017-9-1
 Summary: Portraits
 save_as: portraits.html
 slug: portraits
@@ -50,6 +50,54 @@ slug: portraits
 
 <a href="images/portfolio/Portraits/12_Squirrel.jpg" class="swipebox" title="Squirrel">
 	<img src="images/portfolio/Portraits/thumb_12_Squirrel.jpg" alt="Squirrel" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_01_Spivakov.jpg" class="swipebox" title="01">
+	<img src="images/portfolio/Portraits/thumb_thumb_01_Spivakov.jpg" alt="01" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_02_Necklace.jpg" class="swipebox" title="02">
+	<img src="images/portfolio/Portraits/thumb_thumb_02_Necklace.jpg" alt="02" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_03_Rachel.jpg" class="swipebox" title="03">
+	<img src="images/portfolio/Portraits/thumb_thumb_03_Rachel.jpg" alt="03" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_04_Katie.jpg" class="swipebox" title="04">
+	<img src="images/portfolio/Portraits/thumb_thumb_04_Katie.jpg" alt="04" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_05_ShelterCat.jpg" class="swipebox" title="05">
+	<img src="images/portfolio/Portraits/thumb_thumb_05_ShelterCat.jpg" alt="05" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_06_Smile.jpg" class="swipebox" title="06">
+	<img src="images/portfolio/Portraits/thumb_thumb_06_Smile.jpg" alt="06" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_07_Reflection.jpg" class="swipebox" title="07">
+	<img src="images/portfolio/Portraits/thumb_thumb_07_Reflection.jpg" alt="07" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_08_Sleep.jpg" class="swipebox" title="08">
+	<img src="images/portfolio/Portraits/thumb_thumb_08_Sleep.jpg" alt="08" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_09_Ladybird.jpg" class="swipebox" title="09">
+	<img src="images/portfolio/Portraits/thumb_thumb_09_Ladybird.jpg" alt="09" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_10_Eye.jpg" class="swipebox" title="10">
+	<img src="images/portfolio/Portraits/thumb_thumb_10_Eye.jpg" alt="10" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_11_Peacock.jpg" class="swipebox" title="11">
+	<img src="images/portfolio/Portraits/thumb_thumb_11_Peacock.jpg" alt="11" style="padding: 15px;"/>
+</a>
+
+<a href="images/portfolio/Portraits/thumb_12_Squirrel.jpg" class="swipebox" title="12">
+	<img src="images/portfolio/Portraits/thumb_thumb_12_Squirrel.jpg" alt="12" style="padding: 15px;"/>
 </a>
 
 
