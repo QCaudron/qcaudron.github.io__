@@ -1,5 +1,5 @@
 Title: Publications
-Date: 2014-12-26
+Date: 2017-01-01
 Summary: Publications
 save_as: publications.html
 slug: publications
@@ -15,6 +15,10 @@ i { font-size: 20px; }
 
 
 
+- <a href="http://rsos.royalsocietypublishing.org/content/4/7/170111.full.pdf"><i class="fa fa-file-pdf-o"></i></a>
+  Robust extraction of quantitative structural information from high-variance histological images of livers from necropsied Soay sheep <br /> 
+  <b>Q Caudron</b>, R Garnier, J G Pilkington, K A Watt, C Hansen, B T Grenfell, T Aboellail, A L Graham <br /> 
+  Royal Society Open Science, <b>4</b> (7), 2015.
 - <a href="http://rsif.royalsocietypublishing.org/content/12/102/20141125.full-text.pdf"><i class="fa fa-file-pdf-o"></i></a> 
   Predictability in a highly stochastic system : final size of measles epidemics in small populations. <br />
   <b>Q Caudron</b>, A S Mahmud, C J E Metcalf, M Gottfreðsson, C Viboud, A D Cliff, B T Grenfell,<br />
@@ -31,7 +35,5 @@ i { font-size: 20px; }
   Computational convergence of the path integral for real dendritic morphologies.<br />
   <b>Q Caudron</b>, S R Donnelly, S P C Brand, Y Timofeeva, <br />
   Journal of Mathematical Neuroscience, <b>2</b> (11), 2012.
-- Automated structural analysis of Soay sheep liver through image segmentation. <br />
-  <b>Q Caudron</b> <i>et al.</i>, In preparation, Methods in Ecology and Evolution.
 - Immunodeficiency, malnutrition, and liver degeneration in Soay sheep. 
   <br />R Garnier <i>et al.</i> In preparation, PLOS Computational Biology.

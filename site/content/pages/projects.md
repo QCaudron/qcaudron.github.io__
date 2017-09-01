@@ -1,18 +1,23 @@
 Title: Projects and Coding
-Date: 2014-12-26
+Date: 2017-09-01
 Summary: Projects
 save_as: projects.html
 slug: projects
 
 
-### manatee
+### pawprint
 
-[Manatee](http://qcaudron.github.io/manatee) is a wrapper around PySpark's DataFrames, to make them more pandas-like. It was started as a learning exercise for PySpark, and to make basic data manipulation tasks less painful when coming from pandas. It's currently in alpha, but I'm hoping to push it to first release in the near future.
+A flexible, easy-integration tool for tracking users on web applications, [pawprint](http://pawprint.readthedocs.org) leverages pandas and SQLalchemy to rapidly read, write, and filter through user events, allowing rapid analysis without constraining the user to a particular level of granularity or framework. It implements a light query language inspired by the Django ORM.
 
 
 ### scotch
 
 A package for simulating stochastic dynamical models, <a href="https://github.com/QCaudron/scotch">scotch</a> implements algorithms for continuous-time Markov chains in Python. It is a work-in-progress collaboration with [Ruthie Birger](http://ruthiebirger.com); we hope to implement more advanced simulation algorithms, such as adaptive timestepping, as well as trace sampling for calculating summary statistics and parameter inference for stochastic models. Simulation algorithms will eventually be Cythonised or rewritten in C++. Pull requests are welcome !
+
+
+### manatee
+
+[Manatee](http://qcaudron.github.io/manatee) is a wrapper around PySpark's DataFrames, to make them more pandas-like. It was started as a learning exercise for PySpark, and to make basic data manipulation tasks less painful when coming from pandas. It's currently in alpha, but I'm hoping to push it to first release in the near future.
 
 
 ### genepy

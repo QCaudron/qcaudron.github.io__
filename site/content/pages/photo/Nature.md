@@ -4,6 +4,10 @@ Summary: Nature
 save_as: nature.html
 slug: nature
 
+<a href="images/portfolio/Nature/Galaxy.jpg" class="swipebox" title="Galaxy">
+    <img src="images/portfolio/Nature/Galaxy.jpg" alt="Galaxy" style="padding: 15px;"/>
+	</a>
+	
 <a href="images/portfolio/Nature/00_WashingtonNationalForest.jpg" class="swipebox" title="WashingtonNationalForest">
 	<img src="images/portfolio/Nature/thumb_00_WashingtonNationalForest.jpg" alt="WashingtonNationalForest" style="padding: 15px;"/>
 </a>
